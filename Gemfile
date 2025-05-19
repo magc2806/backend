@@ -44,7 +44,7 @@ end
 # Authentication
 gem "devise", "~> 4.9"
 gem "devise-jwt", "~> 0.12.1"
-gem "rack-cors", "~> 2.0"
+gem "rack-cors", "~> 3.0"
 
 # Serializaer
 gem "jsonapi-serializer", "~> 2.2"
