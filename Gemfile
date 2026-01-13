@@ -43,7 +43,7 @@ end
 
 # Authentication
 gem "devise", "~> 4.9"
-gem "devise-jwt", "~> 0.12.1"
+gem "devise-jwt", "~> 0.13.0"
 gem "rack-cors", "~> 2.0"
 
 # Serializaer
